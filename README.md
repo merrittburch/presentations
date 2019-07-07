@@ -1,5 +1,5 @@
 # presentations
-My collection of lab meeting presentations. 
+My collection of lab meeting presentations and other material I have presented on. 
 
 
 # Contact (i.e. Who to blame)
